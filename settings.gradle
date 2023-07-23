@@ -1,0 +1,5 @@
+rootProject.name = "ARouterDemo"
+include ':app'
+include ':LoginModule'
+include ':RegisterModule'
+include ':baseLibrary'

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_start_setting"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:background="@color/teal_200"
+        android:text="startSettingActivity"/>
+
+    <TextView
+        android:id="@+id/tv_start_personal_info"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:background="@color/teal_200"
+        android:text="startPersonalInfoActivity"/>
+
+    <TextView
+        android:id="@+id/tv_start_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:background="@color/teal_200"
+        android:text="startFeedbackActivity"/>
+
+    <TextView
+        android:id="@+id/tv_start_register"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:background="@color/teal_200"
+        android:text="startRegisterActivity"/>
+
+    <TextView
+        android:id="@+id/tv_start_login"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:background="@color/teal_200"
+        android:text="startLoginActivity"/>
+
+    <TextView
+        android:id="@+id/tv_test_degrade"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:background="@color/teal_200"
+        android:text="startTestActivity"/>
+
+</LinearLayout>
